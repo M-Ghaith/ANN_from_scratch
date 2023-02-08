@@ -1,4 +1,5 @@
-# neural_network_from_scratch
+# NOTE: This Doc explain `MLP_mnist.py` code only
+
 Building a Neural Network to classify handwritten digits (MNIST database) without using with out Tensorflow or Pytorch, using only math and numpy. 
 
 The code is for a 2-layer neural network that performs multi-class classification. The network architecture consists of an input layer, a hidden layer, and an output layer. The input layer has 784 neurons, the hidden layer has 10 neurons, and the output layer has 10 neurons, each corresponding to one of the 10 classes.
@@ -12,7 +13,6 @@ matplotlib
 ## Data
 
 The code uses MNIST data. Downloaded from https://pjreddie.com/projects/mnist-in-csv/
-
 
 # The code does the following:
 
